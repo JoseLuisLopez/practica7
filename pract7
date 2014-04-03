@@ -1,0 +1,31 @@
+<html>
+<body>
+
+ 
+<form class="miform" action="inicio.php" method="POST">
+ <br />Login:
+ <br />
+ <input type="text" name="root">
+ 
+ <br />Password:
+ <br />
+ <input type="password" name="administrador">
+ <br />
+ 
+ 
+<input class="boton" type="submit" value="Entrar">
+<form name="miform" method="post" action="inicio.php">
+</pre>
+
+ 
+</form>
+ 
+<p><a href="formulario.php">Registrase en el Sistema</a></p>
+
+
+
+
+
+
+</body>
+	   </html>
