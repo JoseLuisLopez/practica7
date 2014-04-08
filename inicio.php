@@ -8,9 +8,6 @@ Bienvenido root <p> <p>
  } 
  
 ?>
-
-<script language="javaScript">
- document.location.href = "practica7.html";
- </script>
+<a href="file:///C:/Users/joseluis/Desktop/practica7%20.html"> CERRAR SESION</a>
  
  </body>
